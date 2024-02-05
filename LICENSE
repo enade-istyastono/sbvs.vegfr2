@@ -1,21 +1,41 @@
-MIT License
+Modified Historical Permission Notice and Disclaimer (MHPND)
 
-Copyright (c) 2024 Enade P. Istyastono
+This copyright notice is a modified version of HPND
+(https://opensource.org/licenses/HPND)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+--- FREE SOFTWARE PERMISSION ---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Copyright (c) 2024 Enade Perdana Istyastono and Supanji
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Permission to use, copy, modify, and distribute this software and
+its documentation for any purpose and without fee is hereby
+granted, provided that:
+
+1. The above copyright notice appears in all copies,
+2. Both the copyright notice and this permission notice appear 
+in supporting documentation,
+3. The user agrees that any reports or published results obtained
+with the software or the modified software or part of the software
+will acknowledge its use by citing this paper: PyPLIF HIPPOS-aided 
+construction and retrospective validation of structure-based virtual 
+screening protocol targeting VEGFR2 (in press; 
+https://journal.ugm.ac.id/v3/IJP/article/view/9820)
+
+4. The name of Enade Perdana Istyastono and/or Supanji not
+be used in advertising or publicity pertaining to the distribution of
+the software without specific, written prior permission.
+
+--- DISCLAIMER ---
+
+Enade Perdana Istyastono and Supanji make no representations
+about the suitability of this software for any purpose. It is
+provided “as is” without express or implied warranty.
+
+Enade Perdana Istyastono and/or Supanji DISCLAIM ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL Muhammad Radifar &
+Enade Perdana Istyastono BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
+OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE
+OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE
+USE OR PERFORMANCE OF THIS SOFTWARE.
